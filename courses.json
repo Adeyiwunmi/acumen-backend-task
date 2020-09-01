@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Complete Web Developer in 2018: Zero to Mastery",
+    "author": "Victor Alade",
+    "users": "400",
+    "rating": "5",
+    "price": "20",
+    "comments": "10",
+    "duration": "15Hrs",
+    "image": "https://i.ibb.co/f1F8vcc/1.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Introduction to Apex",
+    "author": "Victor Alade",
+    "users": "100",
+    "rating": "4",
+    "price": "50",
+    "comments": "6",
+    "duration": "25Hrs",
+    "image": "https://i.ibb.co/ngFpwtr/2.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Gatsby Foundation",
+    "author": "Victor Alade",
+    "users": "110",
+    "rating": "4.5",
+    "price": "50",
+    "comments": "6",
+    "duration": "12Hrs",
+    "image": "https://i.ibb.co/ngFpwtr/3.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Single Sign On using SAML in PHP",
+    "author": "Victor Alade",
+    "users": "34",
+    "rating": "4.5",
+    "price": "98",
+    "comments": "23",
+    "duration": "32Hrs",
+    "image": "https://i.ibb.co/ngFpwtr/4.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Introduction to serveless using Gcloud",
+    "author": "Victor Alade",
+    "users": "65",
+    "rating": "4.5",
+    "price": "110",
+    "comments": "43",
+    "duration": "32Hrs",
+    "image": "https://i.ibb.co/ngFpwtr/8.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Complete Web Developer in 2018: Zero to Mastery",
+    "author": "Victor Alade",
+    "users": "400",
+    "rating": "5",
+    "price": "20",
+    "comments": "10",
+    "duration": "15Hrs",
+    "image": "https://i.ibb.co/f1F8vcc/1.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Introduction to Apex",
+    "author": "Victor Alade",
+    "users": "100",
+    "rating": "4",
+    "price": "50",
+    "comments": "6",
+    "duration": "25Hrs",
+    "image": "https://i.ibb.co/ngFpwtr/2.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Gatsby Foundation",
+    "author": "Victor Alade",
+    "users": "110",
+    "rating": "4.5",
+    "price": "50",
+    "comments": "6",
+    "duration": "12Hrs",
+    "image": "https://i.ibb.co/ngFpwtr/3.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Single Sign On using SAML in PHP",
+    "author": "Victor Alade",
+    "users": "34",
+    "rating": "4.5",
+    "price": "98",
+    "comments": "23",
+    "duration": "32Hrs",
+    "image": "https://i.ibb.co/ngFpwtr/4.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Introduction to serveless using Gcloud",
+    "author": "Victor Alade",
+    "users": "65",
+    "rating": "4.5",
+    "price": "110",
+    "comments": "43",
+    "duration": "32Hrs",
+    "image": "https://i.ibb.co/ngFpwtr/8.jpg",
+    "author_avatar": "https://i.ibb.co/YP46FqN/victor.jpg"
+  }
+]
