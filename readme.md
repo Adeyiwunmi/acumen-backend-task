@@ -16,7 +16,7 @@ The image can be found on [dockerhub](https://hub.docker.com/repository/docker/a
 #### Running the App
 Once the contents of this repository is pulled , one should set the environment variables in the `env.sample` file ,then run the app using `npm run dev`.
 If you will be running with docker, you can build the image  and run the container making sure an environment file is supplied to the docker daemon,
-you can also attach your own service config file and specify the name in the env  variable like `docker run --env-file ./env.sample ${imageName}.
+you can also attach your own service config file and specify the name in the env  variable like `docker run --env-file ./env.sample ${imageName}`.
 
 
 #### Testing
