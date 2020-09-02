@@ -9,14 +9,15 @@ it can
 
 The application uses [express](https://expressjs.com/ "expressjs's Website") ,
  [firestore](https://firebase.google.com/docs/firestore "firestore's Website") 
- and [docker](https://www.docker.com/ "Dockers's Website")  .
+ and [docker](https://www.docker.com/ "Dockers's Website") .
 
 The image can be found on [dockerhub](https://hub.docker.com/repository/docker/adeboludeyi/acumen-student-manager) , the postman collection can be found on https://documenter.getpostman.com/view/1418222/TVCe2p6c
 
 #### Running the App
 Once the contents of this repository is pulled , one should set the environment variables in the `env.sample` file ,then run the app using `npm run dev`.
 If you will be running with docker, you can build the image  and run the container making sure an environment file is supplied to the docker daemon,
-you can also attach your own service config file and specify the name in the env  variable.
+you can also attach your own service config file and specify the name in the env  variable like `docker run --env-file ./env.sample ${imageName}.
+
 
 #### Testing
 
